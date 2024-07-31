@@ -1,0 +1,7 @@
+langchain
+langchainhub
+chromadb
+langchain-community
+gpt4all
+PyMuPDF
+llama-cpp-python
