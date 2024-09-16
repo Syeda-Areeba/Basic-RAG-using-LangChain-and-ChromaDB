@@ -138,9 +138,3 @@ print(response)
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- LangChain: [https://github.com/langchain/langchain](https://github.com/langchain/langchain)
-- Chroma DB: [https://github.com/chroma-db/chroma](https://github.com/chroma-db/chroma)
-- GPT4All: [https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
